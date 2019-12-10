@@ -8,7 +8,10 @@
     </option>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95c8af38-0779-4c59-b6ff-fa204a0ac4ac" name="Default Changelist" comment="" />
+    <list default="true" id="95c8af38-0779-4c59-b6ff-fa204a0ac4ac" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +54,9 @@
         <option value="Package Object" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
@@ -112,6 +118,7 @@
     </option>
     <option name="modificationStamps">
       <map>
+        <entry key="$PROJECT_DIR$" value="3151964439915" />
         <entry key="$PROJECT_DIR$/build.sbt" value="1565530949" />
         <entry key="$PROJECT_DIR$/project/build.properties" value="3724303870" />
       </map>
@@ -119,6 +126,17 @@
     <option name="projectSyncType">
       <map>
         <entry key="$USER_HOME$/hybris/stash/Storks/rule-executor-service" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
       </map>
     </option>
   </component>
